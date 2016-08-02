@@ -1,0 +1,288 @@
+
+	.menu ul li a {
+		padding: 0 11px !important;
+		    font: 12px/38px "raleway", sans-serif !important;
+	}
+
+
+	}a {
+    outline: 0;
+}
+
+.hidden{
+    display:none;
+}
+
+ul.clearing-list {
+    text-align: center;
+}
+
+ul.clearing-list li {
+    display: inline-block;
+    float: none;
+}
+
+input[type="text"], input[type="password"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="week"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], textarea {
+    background-color: white;
+    border: 1px solid #cccccc;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1) inset;
+    box-sizing: border-box;
+    color: rgba(0, 0, 0, 0.75);
+    display: block;
+    font-family: inherit;
+    font-size: 0.875rem;
+    height: 36px;
+    margin: 0 0 1rem;
+    padding: 0.5rem;
+    transition: box-shadow 0.45s ease 0s, border-color 0.45s ease-in-out 0s;
+    width: 100%;
+}
+.searcharea {
+    margin-left: 40px;
+}
+
+.sign-in {
+    background-color: #a5a5a5;
+    border-radius: 5px;
+    font-size: 10pt;
+    padding: 9px;
+}
+a.sign-in:link, a.sign-in:visited{
+    color:#fff;
+    font-weight: 500;
+
+}
+                
+a.sign-in:hover{
+    font-weight: 500;
+    background-color: #adadad;
+}
+
+.sign-out {
+    background-color: #a5a5a5;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 10pt;
+    padding: 9px;
+}
+                
+.sign-out:link, a.sign-out:visited {
+    color: #fff;
+    font-weight: 500;
+}
+                
+a.sign-out:hover {
+    background-color: #adadad;
+    font-weight: 500;
+}
+                
+                
+.floatright {
+    float: right;
+}
+    .hiddendownloads{
+    display:none;
+}
+                
+.redlink {
+    background-color: red;
+}
+                
+@media only screen and (min-width: 891px) {
+    #home {
+        max-width: 50%;
+    }
+                    
+        #international {
+        max-width: 50%;
+    }
+                    
+                    
+    #faq {
+        max-width: 50%;
+    }
+                    
+    #aboutus {
+        left: 30%;
+        max-width: 630px;
+    }
+
+    #contactus {
+        left: 10%;
+        max-width: 775px;
+    }
+
+    #multimedia {
+        left: 0%;
+        max-width: 910px;
+    }
+
+    #resources {
+        left: 10%;
+        max-width: 820px;
+    }
+                    
+/*
+    ul{
+        border: 4px solid red;
+    }
+*/
+                    
+    #products {
+        left: 10%;
+    }
+
+    .hide-for-desktop {
+        display: none;
+    }
+                    
+    .toptop{display:none;}
+                    
+}
+
+@media screen and (max-width: 890px) {
+    #mainmenu {
+        display: none;
+    }
+
+    .show-for-desktop {
+        display: none;
+    }
+
+    .menu_container {
+        margin-bottom: 0px;
+    }
+    #hidehome {
+        display: none;
+    }
+    .top{display:none;}
+    .hidesearch {display: none;}
+    .searchboxarea {
+        float: left;
+        height: 36px;
+        margin-top: 45px;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    .searchbar {
+        margin-top: 4px;
+        padding-top: 4px;
+        left: 0;
+    }
+
+    .searchicon {
+        margin-top: 9px;
+        padding-top: 5px;
+        padding-left: 0px;
+        left: 0;
+        float: left;
+    }
+
+    .header {
+        background-color: #454545;
+    }
+
+    #sitesearch {
+        margin: 0;
+        padding: 5;
+        width: 100%;
+        float: left;
+    }
+}
+
+@media screen and (min-device-width: 320px) and (max-device-width: 490px) {
+    .searchbar {
+        margin-top: 4px;
+        padding-top: 4px;
+        left: 0;
+        width: 89%;
+    }
+
+    .searchicon {
+        margin-top: 9px;
+        padding-top: 5px;
+        padding-left: 0px;
+        left: 0;
+        float: left;
+        color: silver;
+        background-color: #fff;
+    }
+
+    .header {
+        background-color: #454545;
+    }
+
+    #sitesearch {
+        margin: 0;
+        padding: 5;
+        width: 100%;
+        float: left;
+    }
+}
+
+
+.headerlink{
+    padding-top:12px;
+    font-size:9pt;
+    color: #808080;
+    padding-left: 5px;
+
+}
+.top{
+    height:42px;
+    padding-top:0;
+}
+.newtoparea{
+    max-width: 62.5em;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+.toplink{
+    color: #565656;
+    text-decoration: none;
+    float:left;
+}
+
+@media screen and (max-width: 640px) {
+    .headerlink{
+        padding-bottom:10px;
+    }
+}
+a.taphover:hover, a.taphover.hover {
+    background: red;
+    color: white;
+}
+.menu ul li.active ul, .menu ul li.active:hover ul, .menu ul li.active.hover ul, .menu ul li:hover ul,  .menu ul li.hover ul{
+    visibility:visible;
+    opacity:1;
+}
+.boxthing{
+    background-image: url('../../images/menubackground.png');
+    background-repeat:repeat-x;
+}
+.menu_container{
+    max-width: 62.5em;
+    margin-left:auto;
+    margin-right:auto;
+}
+.toptop{
+    border-top: 4px solid #D94917;
+}
+
+.icon-list {
+    padding: 8px;
+}
+.temp {
+    display: inline-table;
+    margin-top: 3px;
+    position: relative;
+}
+
+#en_languageButton {
+    background-image: url("../../images/ENG/87177cfd-8ac9-4322-a71b-037050eada32.png");
+    background-size: 70px auto;
+    background-repeat:no-repeat;
+}

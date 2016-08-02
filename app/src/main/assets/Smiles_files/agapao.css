@@ -1,0 +1,173 @@
+
+
+}.agapaoTitle{
+    text-align: left;
+    font-size: 16pt;
+    color: #2a2a2a;
+    padding-top: 20px; 
+	padding-bottom: 20px;
+    font-weight: 500;
+	text-decoration: underline;
+	
+}
+.agapaoMonth {
+	font-size: 12pt;
+	font-weight: 500;
+	line-height: .6em;
+	
+}
+.agapaoDay {
+	font-size: 22pt;
+	font-weight: 300;
+	line-height: 50%;
+}
+
+.agapaoCity {
+	font-size: 20pt;
+	font-weight: 500;
+	line-height: 50%;
+	color: #1c71b6;
+}
+
+.agapaoLocation {
+	font-size: 14pt;
+	font-weight: 300;
+	color: dimgray;
+}
+
+.agapaoDetails {
+	font-size: 10.5pt;
+	color:#1c71b6;
+	text-transform: uppercase;
+	font-weight: 600;
+	
+}
+.agapaoMotelInfo > a {
+    color: #1c71b6;
+}
+.agapaoMotelInfo > a:hover {
+    color: #4798d9;
+}
+
+a.agapaoDetails:link, a.agapaoDetails:visited {
+	font-size: 10.5pt;
+	color:#1c71b6;
+	text-transform: uppercase;
+	font-weight: 600;
+	
+}
+a.agapaoDetails:hover {
+	font-size: 10.5pt;
+	color:#73b1e3;
+	text-transform: uppercase;
+	font-weight: 600;
+	
+}
+
+.agapaoDay {
+	font-size: 22pt;
+	font-weight: 300;
+	line-height: 50%;
+}
+
+/*---------------------*/
+
+   .agapaoDateRange {
+        font-size: 19pt;
+        font-weight: 500;
+    }
+    .agapaoDate {
+    	font-size: 20pt;
+    	font-weight: 300;
+
+    }
+    .agapaoEvent {
+        font-weight:600;
+        font-size:12pt;
+        padding-left:20px;
+		line-height: 1.6em;
+    }
+    .agapaoLocationInfo {
+    	font-size: 12pt;
+    	font-weight: 600;
+    	padding-left:20px;
+		line-height: 1.6em;
+    }
+   .agapaoMotelTitle {
+    	font-size: 20pt !important;
+    	font-weight: 500;
+    }
+    
+   .agapaoMotelDiscount {
+    	font-size: 14pt;
+    	font-weight: 600;
+    	color:#1c71b6;
+    }    
+   .agapaoMotel {
+    	font-size: 14pt;
+    	font-weight: 300;
+    	padding-left: 40px;
+    }   
+    .agapaoMotelInfo {
+        font-size:12pt;
+    }
+
+	.blankspace {
+		padding-top: 20px;
+		padding-bottom: 20px;
+}
+
+.agapaohr {
+	margin-top: 40px;
+}
+
+
+
+@media only screen and (max-width: 935px) {
+	.agapaoLocationInfo {
+		font-size: 11pt;
+		padding-left: 0px;
+	}
+	.agapaoEvent {
+        padding-left:0px;
+    }
+	.padding_both_20 {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
+}
+
+
+@media only screen and (max-width: 860px) {
+
+	.agapaoDate {
+		font-size: 17pt !important;
+		font-weight: 500;
+	}
+}
+
+@media only screen and (max-width: 760px) {
+
+	.agapaoDate {
+		font-size: 14pt !important;
+		font-weight: 500;
+	}
+}
+
+
+
+@media only screen and (max-width: 665px) {
+
+	.agapaoDate {
+		font-size: 13pt !important;
+		font-weight: 600;
+	}
+		.agapaoLocationInfo {
+		font-size: 11pt;
+	}
+	.agapaoEvent {
+				font-size: 11pt;
+		text-decoration: underline;
+	}
+
+}

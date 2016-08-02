@@ -1,0 +1,149 @@
+body {
+	background-image: none !important;
+}
+a {
+    color:#248EAD; 
+    text-decoration: none;
+    line-height: inherit; 
+    font-weight: 500;
+}
+
+a img {
+    border: none; 
+}
+
+a:visited {
+    color: #248EAD;
+}
+
+a:hover {
+    color:#6f6f6f;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding-left: 20px;
+}
+
+
+ul, ol, dl {
+    font-family: inherit;
+    font-size: 13pt;
+    font-weight: 400;
+    line-height: 1.8;
+    list-style-position: outside;
+    margin-bottom: 1.25rem;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.tsSubjectArea1, .tsSubjectArea2, .tsSubjectArea3, .tsSubjectArea4 {
+	background-color: #eaeaea;
+	padding: 23px;
+	margin: 20px 10px;
+	border-radius: 10px;
+}
+
+ .tsSubjectArea2 {
+	background-color: #cdd3d9;
+ }
+
+ .tsSubjectArea3 {
+	background-color: #b6bbbf;
+ }
+
+ .tsSubjectArea4 {
+	background-color: #d0d0d0;
+ }
+
+.subcat {
+    font-size: 11pt;
+    line-height: 80%;
+    margin: 0;
+    padding: 20px 20px 0;
+    text-decoration: underline;
+}
+
+.techsupportTitle {
+    color: #4d4d4d;
+    font-family: "raleway",sans-serif;
+    font-size: 20pt;
+    font-weight: 600;
+    padding: 0 0 10px 20px;
+}
+
+.background {
+    background-color: #ddd;
+    border-radius: 0 0 10px 10px;
+    padding: 20px;
+	margin-top: 30px;
+}
+
+.techsupportArticleTitle {
+    font-size: 12pt;
+    padding-top: 10px;
+    padding-bottom: 10px;
+	padding-left: 20px;
+}
+
+.title {
+    margin: 10px;
+    font-size: 15pt;
+}
+.bannercontainer {
+    height: 600px;
+}
+.bannerbackground {
+    background-image: url("../../azure/branham/13e11b2c-4b7d-425f-bfb7-ab9edc0442b7.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    background-size: cover;
+}
+
+
+.ts-answer {
+    font-size: 14pt;
+    font-size:400;
+    margin-left: 50px;
+    padding-bottom:30px;
+  }
+
+.ts-question {
+    color:#2285a2;
+    font-weight: 500 !important;
+    font-size: 18;
+}
+
+
+p.question {
+    padding:0px 40px 0px 40px !important;
+    
+}
+
+.questionArea {
+    background-color: #e5e5e5;
+    padding: 10px;
+    border-radius: 10px;
+    margin:20px;
+    
+}
+
+.questionAreaTitle {
+    font-size: 16pt;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    
+}
+
+
+@media only screen and (max-width: 1024px) {
+
+	.tsSubjectArea1, .tsSubjectArea2, .tsSubjectArea3, .tsSubjectArea4 {
+		margin: 10px 0px;
+		padding: 10px;
+	}
+	.questionAreaTitle{
+		padding:10px;
+	}
+	
+}

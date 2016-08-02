@@ -1,0 +1,391 @@
+
+/*      INTERNATIONAL  VER 1-2    */
+
+.intl_bg1 {
+    background-image:url("../images/paper.png");
+    border-radius: 10px;
+}
+
+.OfficeTitle {
+    font-family: "raleway",sans-serif;
+    font-size:32pt;
+    font-weight: 100;
+    color:#4d4d4d;
+    padding:20px 0px 30px 0px;
+}
+
+.intblueHeader {
+    font-family: "raleway",sans-serif;
+    font-size:14pt;
+    font-weight:300;
+    letter-spacing:1px;
+    background-color:#989898;
+    color:#fff;
+    padding:5px 0px 5px 10px;
+}
+
+.intblueBox {
+    font-family: "raleway",sans-serif;
+    font-size:12pt;
+    font-weight:300;
+    line-height:1.2em;
+    letter-spacing:1px;
+    background-color:#c4c4c4;
+    padding:5px 0px 5px 10px;
+    color:#000;
+
+}
+
+.intgrayHeader {
+    font-family: "raleway",sans-serif;
+    font-size:14pt;
+    font-weight:300;
+    letter-spacing:1px;
+    background-color:#d3d3d3;
+    color:#fff;
+    padding:5px 0px 5px 10px;
+}
+
+.intltgrayBox {
+    font-family: "raleway",sans-serif;
+    font-size:12pt;
+    font-weight:300;
+    line-height:1.2em;
+    letter-spacing:1px;
+    background-color:#f4f4f4;
+    padding:5px 0px 5px 10px;
+    color:#4d4d4d;
+
+}
+
+.areabackground {
+    background: #f4f4f4;
+}
+
+.intOfficeStaffBox {
+    float: left;
+    padding-right: 25px;
+}
+.OfficeStaff {
+    font-family: "raleway",sans-serif;
+    font-size:14pt;
+    font-weight:600;
+    line-height:1.2em;
+    letter-spacing:1px;
+    padding:10px 20px 5px 20px;
+    color:#4d4d4d;
+
+}
+
+.intOfficeStaff {
+    font-family: "raleway",sans-serif;
+    font-size:12pt;
+    font-weight:300;
+    line-height:1.2em;
+    letter-spacing:1px;
+    padding:10px 20px 5px 20px;
+    color:#4d4d4d;
+}
+.SpecialInfo {
+    font-family: "raleway",sans-serif;
+    font-size:14pt;
+    font-weight:600;
+    line-height:1.2em;
+    letter-spacing:1px;
+    padding:10px 20px 5px 20px;
+    color:#4d4d4d;
+}
+
+.OfficePic {
+    padding:20px 0px 10px 0px;
+}
+
+.OfficeMng {
+    font-weight: 300 !important;
+    font-size: 10pt !important;
+    padding:10px 0px 5px 0px !important;
+    text-align: center;
+}
+
+.OfficePosition {
+    font-size: 10pt;
+    margin:-25px;
+    margin-bottom: 20px;
+
+}
+.OfficeDetail {
+    text-align: left;
+    float: left;
+    margin: 20px 0 20px 0;
+}
+
+.staffpic {
+    text-align: center;
+    margin-left: 25px;
+    margin-right: auto;
+    display: inline-block;
+
+}
+
+.OfficeMngTestimony {
+    font-weight: bold;
+    padding:10px 0px 5px 0px !important;
+}
+.Stafflist p{
+    font-size: 10pt;
+    list-style-type: none;
+    margin-top: 20px;
+
+}
+.intslideshow {
+    padding-top:30px;
+    padding-left:10px;
+}
+
+.RelatedArticles {
+    font-family: "pragmatica-web", sans-serif;
+    font-size:12pt;
+    font-weight:600;
+    line-height:1.2em;
+    letter-spacing:1px;
+    padding:5px 0px 15px 0px;
+    color:#fff;
+}
+
+.RelatedArticlesLinks li {
+    font-size: 10pt;
+    font-weight: 300;
+    letter-spacing: 2px;
+    color: #fff;
+    line-height: 1.7em;
+    text-decoration: underline;  
+}
+
+
+
+/*      INTERNATIONAL VER 3      */
+
+.intblueHeader3 {
+    font-family: "raleway",sans-serif;
+    font-size:24pt;
+    letter-spacing:1px;
+    color:silver;
+    padding:15px 0px 5px 10px;
+
+}
+
+.intblueBox3 {
+    background-color:#c3c3c3;
+    padding:15px 0px 5px 10px;
+    color:#000;
+}
+
+.intContactInformation3 {
+    font-family: "raleway",sans-serif;
+    font-size: 11pt;
+    line-height:1.2em;
+    letter-spacing:1px;
+    padding-left: 15px;
+}
+
+.intContactInformation3 p {
+    font-family: "raleway",sans-serif;
+    font-size: 11pt;
+    letter-spacing:1px;
+}
+
+.intgrayHeader3 {
+    font-family: "raleway",sans-serif;
+    font-size:14pt;
+    font-weight:300;
+    letter-spacing:1px;
+    color:#000;
+    padding-top:5px;
+    margin-top: 25px;
+}
+
+.intCountryDemographics3 {
+    font-family: "raleway",sans-serif;
+    font-size:24pt;
+    letter-spacing:1px;
+    color:silver;
+    padding:15px 0px 5px 10px;
+}
+
+
+.MapPic {
+    float: right;
+    padding:10px 15px 10px 10px;
+}
+
+.intltgrayBox3 {
+    background-color:#f4f4f4;
+    padding:5px 0px 5px 10px;
+    color:#4d4d4d;
+    min-height: 315px;
+
+}
+
+.areabackground3 {
+    background: #fff;
+}
+
+.intOfficeStaffBox3 {
+    float: left;
+    padding-right: 25px;
+    margin-top:25px;
+}
+.OfficeStaff3 {
+    font-size:30pt;
+    color: silver;
+    padding:15px 0px 5px 10px;
+}
+
+.intOfficeStaff3 {
+    font-family: "raleway",sans-serif;
+    font-size:12pt;
+    font-weight:600;
+    line-height:1.2em;
+    letter-spacing:1px;
+    padding:10px 20px 5px 20px;
+    color:#000;
+}
+.intOfficeStaff3 p{
+    line-height:1.2em;
+    letter-spacing:1px;
+}
+
+.OfficePic3 {
+    text-align: center;
+    padding: 5px 0px 10px 0px;
+    margin-left: 20px;
+}
+
+.OfficePic4 {
+    text-align: right;
+    padding: 5px 0px 10px 0px;
+    margin-left: 20px;
+    float: right;
+}
+.OfficeMng {
+    font-weight: 300 !important;
+    font-size: 10pt !important;
+    padding:10px 0px 5px 0px !important;
+    text-align: center;
+}
+
+.OfficePosition3 {
+    font-size: 10pt;
+    margin:-20px;
+    margin-bottom: 20px;
+
+}
+
+.OfficeMngTestimony {
+    font-weight: bold;
+    padding:10px 0px 5px 0px !important;
+}
+
+.intslideshow {
+    padding-top:30px;
+    padding-left:10px;
+}
+
+
+
+
+.intl_area {
+    min-height: 350px;
+}
+
+.intl_title{
+    font-family: "raleway",sans-serif;
+    font-size: 24pt;
+    font-weight: 300;
+    color:#333;
+    padding: 15px;
+    margin-left: 25px;
+    margin-top: 30px;
+}
+
+.intl_continent {
+    font-family: "raleway",sans-serif;
+    font-weight: 300;
+    font-size: 22pt;
+    margin: 30px 20px 20px 40px;
+}
+
+.intl_officename a:link, a:visited {
+    font-family: "raleway",sans-serif;
+    font-weight: 500;
+    font-size: 13pt;
+    margin: 40px 20px 0px 40px;
+    color: #2285a2
+
+}
+
+.intl_officename a:hover {
+    font-family: "raleway",sans-serif;
+    font-weight: 500;
+    color:#767676;
+    font-size: 13pt;
+    margin: 40px 20px 0px 40px;
+
+}
+
+.contactarea p{
+    font-family: "raleway",sans-serif;
+    font-weight: 300;
+    margin-left: 40px;
+    color: #555;
+}
+
+.intl_contactinfo p{                
+    font-family: "raleway",sans-serif;
+    font-weight: 300;
+    color: #555;
+    margin-top: 10px;
+    font-size: 11pt;
+}
+.grid-row {
+    display: block;
+}
+
+.bg-divider {
+    background-image: url("../images/divider-1024.png");
+}
+.bg-divider {
+    background-position: center top;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+}
+.intl_toplinks {
+    font-family: "raleway",sans-serif;
+    font-weight: 500;
+    font-size: 11pt;
+    color: #D94917;
+}
+
+.intl_toplinks a{
+    font-family: "raleway",sans-serif;
+    font-weight: 600;
+    font-size: 11pt;
+    color: #2285a2;
+}
+.intl_toplinks a:hover{
+    font-family: "raleway",sans-serif;
+    font-weight: 600;
+    font-size: 11pt;
+    color: #488DC9;
+}
+
+
+
+
+
+@media only screen and (max-width:399px)
+{
+    .intl_area {
+        min-height: 250px;
+    }
+}
